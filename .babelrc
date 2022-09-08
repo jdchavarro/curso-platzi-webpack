@@ -1,0 +1,8 @@
+{ // le explicamos a babel como vamos a trabajar
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}
